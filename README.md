@@ -35,4 +35,11 @@ This project:
 
 ---
 
-## 📂 Project Structure
+---
+
+## ⚙️ Installation
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/TongPPTH/Predictive-maintenance-model.git
+```
